@@ -1,3 +1,4 @@
+
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
@@ -8,7 +9,7 @@
 <div align="center">
 
 
-![Top of pokeball](https://es-static.z-dn.net/files/dc5/a8ac8aadffb3c57e90026a53b0c8b776.png)
+![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
 <details>
 <summary>Open profile</summary>
